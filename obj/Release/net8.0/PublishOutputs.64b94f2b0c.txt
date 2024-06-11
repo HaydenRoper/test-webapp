@@ -1,0 +1,12 @@
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/azure-app-hayden
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/publish/web.config
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/appsettings.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/publish/appsettings.Development.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/publish/appsettings.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/publish/azure-app-hayden.deps.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/publish/azure-app-hayden.runtimeconfig.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/azure-app-hayden.dll
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/azure-app-hayden.deps.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/azure-app-hayden.runtimeconfig.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/azure-app-hayden.pdb

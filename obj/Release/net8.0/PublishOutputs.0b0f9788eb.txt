@@ -1,0 +1,7 @@
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/publish/azure-app-hayden
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/publish/appsettings.Development.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/publish/appsettings.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/publish/azure-app-hayden.dll
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/publish/azure-app-hayden.deps.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/publish/azure-app-hayden.runtimeconfig.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/publish/azure-app-hayden.pdb
