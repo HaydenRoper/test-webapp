@@ -7,7 +7,7 @@ builder.Services.AddApplicationInsightsTelemetry();
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-var connString = builder.Configuration.GetConnectionString("AzureSqlConnection");
+var connString = builder.Configuration.GetConnectionString("MyDatabase");
 Console.WriteLine(connString);
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connString));
 
