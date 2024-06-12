@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("ebe477c2-8a40-4430-afb7-57520f9d4d43")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-hayden")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da1103551c2f7af24137777a81c8b0fbf09e7248")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-hayden")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-hayden")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

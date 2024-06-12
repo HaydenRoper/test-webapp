@@ -33,3 +33,4 @@
 /Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/appsettings.json
 /Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/azure-app-hayden.deps.json
 /Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/bin/Release/net8.0/publish/azure-app-hayden.runtimeconfig.json
+/Users/haydenroper/Documents/Code/BenchProjects/azure-app-hayden/obj/Release/net8.0/azure-app-hayden.sourcelink.json

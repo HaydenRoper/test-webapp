@@ -1,7 +1,15 @@
+using azure_app_hayden.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddApplicationInsightsTelemetry();
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+var connString = builder.Configuration.GetConnectionString("AzureSqlConnection");
+Console.WriteLine(connString);
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connString));
 
 var app = builder.Build();
 
